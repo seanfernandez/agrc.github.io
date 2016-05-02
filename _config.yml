@@ -2,7 +2,7 @@
 title: Utah Mapping Portal
 email: agrc@utah.gov
 description: Utah Mapping Portal | The Utah Automated Geographic Reference Center
-baseurl: ""
+baseurl: "/agrc.github.io/"
 url: "http://gis.utah.gov"
 highlighter: rouge
 twitter_username: MapUtah
